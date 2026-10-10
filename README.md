@@ -3,7 +3,7 @@
 
 I build security tools and automation in Python, C#, and PowerShell, and I'm comfortable across the stack, from Windows/Active Directory environments to cloud-hosted web apps. I'm open to full-time roles & available for freelance projects in FCT Nigeria / Remote.
 
-📫 **Reach me:** ivanpitakwa06@yahoo.com · [LinkedIn](www.linkedin.com/in/ivan-pitakwa-115bb6442)
+📫 **Reach me:** ivanpitakwa06@yahoo.com · [LinkedIn](https://www.linkedin.com/in/ivan-pitakwa-115bb6442)
 
 ---
 
